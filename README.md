@@ -1,8 +1,12 @@
 # SpectraLive
 
+<p align="center">
+  <img src="images/logos/SpectraLive.png" alt="SpectraLive Logo" width="150"/>
+</p>
+
 **AI-Powered Hyperspectral Imaging for Non-Invasive Biomedical Diagnostics**
 
-A product by [NeuSpectra](https://neuspectra.com)
+A product by [NeuSpectra](https://neuspectra.com) <img src="images/logos/NeuSpectra.jpg" alt="NeuSpectra" width="30" style="vertical-align: middle;"/>
 
 ---
 
@@ -30,7 +34,7 @@ SpectraLive/
 ├── script.js           # JavaScript functionality
 ├── README.md           # This file
 └── images/
-    ├── Logos/
+    ├── logos/
     │   ├── SpectraLive.png # Product logo
     │   └── NeuSpectra.jpg  # Company logo
     ├── favicon/
@@ -87,11 +91,27 @@ SpectraLive/
 
 ## 👥 Team
 
-| Name         | Role             | LinkedIn                                               |
-| ------------ | ---------------- | ------------------------------------------------------ |
-| Suresh       | Research Scholar | [encodedcoder](https://linkedin.com/in/encodedcoder)   |
-| Shrey Dhiman | Research Scholar | [shreydhiman99](https://linkedin.com/in/shreydhiman99) |
-| Nikita       | Research Scholar | Coming Soon                                            |
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/team/suresh.jpg" width="100" style="border-radius: 50%;" alt="Suresh"/><br/>
+      <strong>Suresh</strong><br/>
+      Research Scholar<br/>
+      <a href="https://linkedin.com/in/encodedcoder">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="images/team/shrey-dhiman.jpg" width="100" style="border-radius: 50%;" alt="Shrey Dhiman"/><br/>
+      <strong>Shrey Dhiman</strong><br/>
+      Research Scholar<br/>
+      <a href="https://linkedin.com/in/shreydhiman99">LinkedIn</a>
+    </td>
+    <td align="center">
+      <strong>Nikita</strong><br/>
+      Research Scholar<br/>
+      ...
+    </td>
+  </tr>
+</table>
 
 ---
 
