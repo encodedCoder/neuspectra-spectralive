@@ -392,7 +392,7 @@ h3 {
 }
 
 .hero-image {
-  max-width: 500px;
+  max-width: 600px;
   border-radius: 20px;
   box-shadow: var(--shadow-glow);
   animation: float 6s ease-in-out infinite;
