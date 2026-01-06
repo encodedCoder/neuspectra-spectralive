@@ -207,9 +207,21 @@ h3 {
   align-items: center;
 }
 
+.nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .nav-logo img {
   height: 45px;
   width: auto;
+}
+
+.nav-logo span {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--white);
 }
 
 .nav-menu {

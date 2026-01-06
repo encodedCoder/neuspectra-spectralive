@@ -29,20 +29,26 @@ SpectraLive/
 ├── styles.css          # Stylesheet
 ├── script.js           # JavaScript functionality
 ├── README.md           # This file
-├── Logos/
-│   ├── SpectraLive.png # Product logo
-│   └── NeuSpectra.jpg  # Company logo
-├── images/
-│   ├── explainability.jpg
-│   ├── hardware.png
-│   ├── hypercube.jpg
-│   ├── neuspectra.png
-│   ├── software.png
-│   └── team/
-│       ├── suresh.jpg
-│       └── shrey-dhiman.jpg
-└── PPT/
-    └── SpectraLive.pdf # Presentation
+└── images/
+    ├── Logos/
+    │   ├── SpectraLive.png # Product logo
+    │   └── NeuSpectra.jpg  # Company logo
+    ├── favicon/
+    │   ├── favicon.ico
+    │   ├── favicon.svg
+    │   ├── favicon-96x96.png
+    │   ├── apple-touch-icon.png
+    │   ├── web-app-manifest-192x192.png
+    │   ├── web-app-manifest-512x512.png
+    │   └── site.webmanifest
+    ├── team/
+    │   ├── suresh.jpg
+    │   └── shrey-dhiman.jpg
+    ├── explainability.jpg
+    ├── hardware.png
+    ├── hypercube.jpg
+    ├── neuspectra.png
+    └── software.png
 ```
 
 ---
